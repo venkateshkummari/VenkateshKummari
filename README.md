@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Venkatesh 👋
 
-<!--
-**venkateshkummari/VenkateshKummari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Embedded Systems Engineer | Linux | C/C++
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- C, C++
+- Python
+- Linux Boot Process
+- Kernel Basics
+- Networking
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Interests
+- Embedded Systems
+- Linux Internals
+- Bootloaders
+- Device Drivers
+- DSA & System Programming
+
+### 📫 Contact
+- Email: venkateshkummari.093@gmail.com
