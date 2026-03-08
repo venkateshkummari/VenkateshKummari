@@ -1,6 +1,6 @@
 # Hi, I'm Venkatesh 👋
 
-## 👨‍💻 Embedded Systems & Linux Engineer | C/C++ | System Software
+## 👨‍💻 Embedded Systems & Linux Engineer | C/C++ | Device Driver Development
 
 Passionate Embedded Systems Engineer with hands-on experience in Linux-based system integration, IoT protocols, and low-level embedded communication. Experienced in working on client-side integration projects in semiconductor environments.
 
